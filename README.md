@@ -6,6 +6,7 @@ I'm a professional specializing in Regulation and Compliance from a legal perspe
 
 ## Legal Dissertations
 - [Regulation and Complaince LLM Dissertation (PDF)](https://github.com/Towobola-Od/academic-portfolio/blob/main/LLM%20Data%20Protection%20Dissertation.pdf)
+- [Immigration Policy LLB Dissertation (PDF)](https://github.com/Towobola-Od/academic-portfolio/blob/main/LLB%20Dissertation%20Immigration%20Law%20.pdf) 
   
 ## Technical writing projects
 - [Guide to Draftinga a Compliant Privacy Policy (PDF)](https://github.com/Towobola-Od/academic-portfolio/blob/main/Guide%20to%20writing%20a%20Compliant%20privacy%20policy%20.pdf)
