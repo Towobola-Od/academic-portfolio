@@ -17,6 +17,8 @@ I'm a professional specialising in Regulation and Compliance from a legal perspe
 - [Compliance with the Building Safety Act 2022 (PPTX)](https://github.com/Towobola-Od/academic-portfolio/blob/main/Understanding%20and%20Complying%20with%20the%20Building%20Safety%20Act-%20GROUP%202%20PRESENTATION%20(UPDATED).pptx)
 - [Socio-economic Development Presentation. SDG Goals 4 and 5 (PPTX)](https://github.com/Towobola-Od/academic-portfolio/blob/main/Human%20trafficking%20Towo%20.pptx)
   
-## Other Projects
-- [Project Report](Other-Projects/project-report.pdf)
+## Other Projects ( Essays I enjoyed writing) 
+- [Impact of Climate Change in the Financial Services Sector ]()
+- [Guide to the GDPR Blog, which sparked my interest in Regulation and Compliance]()
+- 
 
