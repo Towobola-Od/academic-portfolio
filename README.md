@@ -2,7 +2,7 @@
 A portfolio showcasing my academic legal research, presentations and technical writing projects 
 # Hi, I'm Towobola Odukoya  
 
-I'm an ethically driven and adaptable Master’s graduate in Law and Regulatory Compliance with hands-on experience in AML reviews, KYC checks, forensic accounting, and legal research. I am Skilled in preparing compliance documentation, analysing financial data, and applying regulatory tools including the FCA Handbook, GDPR, and UK Anti-Money Laundering regulations. Passionate about preventing financial crime and contributing to a safer, more secure financial system.
+I'm an ethically driven and adaptable Master’s graduate in Law and Regulatory Compliance with hands-on experience in AML reviews, KYC checks, forensic accounting, and legal research. Skilled in applying regulatory tools such as the FCA Handbook, GDPR, and UK AML regulations to strengthen governance and promote responsible business practices. Passionate about preventing financial crime and supporting sustainable, transparent financial systems that protect people, businesses, and society.
 
 ## Legal Dissertations
 - [Regulation and Complaince LLM Dissertation (PDF)](https://github.com/Towobola-Od/academic-portfolio/blob/main/LLM%20Data%20Protection%20Dissertation.pdf)
