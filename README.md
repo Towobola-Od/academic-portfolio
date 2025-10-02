@@ -19,6 +19,6 @@ I'm an ethically driven and adaptable Master’s graduate in Law and Regulatory 
   
 ## Other Projects ( Essays I enjoyed writing) 
 - [Impact of Climate Change in the Financial Services Sector ](https://github.com/Towobola-Od/academic-portfolio/blob/main/Imact%20of%20Climate%20Chnage%20in%20the%20Financial%20Services%20Industry%20.pdf)
-- [Guide to the GDPR Blog, which sparked my interest in Regulation and Compliance]()
+- [Guide to the GDPR Blog, which sparked my interest in Regulation and Compliance](https://github.com/Towobola-Od/academic-portfolio/blob/main/Data%20privacy%20blog%202022.pdf)
   
 
