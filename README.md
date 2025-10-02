@@ -2,13 +2,13 @@
 A portfolio showcasing my academic legal research, presentations and technical writing projects 
 # Hi, I'm Towobola Odukoya  
 
-I'm a professional specialising in Regulation and Compliance from a legal perspective. This portfolio showcases my dissertations, PowerPoint presentations, and academic/technical writing projects. I aim to apply my research to advancing risk management frameworks in financial services, with a strong focus on sustainability and long-term resilience.
+I'm an ethically driven and adaptable Master’s graduate in Law and Regulatory Compliance with hands-on experience in AML reviews, KYC checks, forensic accounting, and legal research. Skilled in preparing compliance documentation, analysing financial data, and applying regulatory tools including the FCA Handbook, GDPR, and UK Anti-Money Laundering regulations. Passionate about preventing financial crime and contributing to a safer, more secure financial system.
 
 ## Legal Dissertations
 - [Regulation and Complaince LLM Dissertation (PDF)](https://github.com/Towobola-Od/academic-portfolio/blob/main/LLM%20Data%20Protection%20Dissertation.pdf)
 - [Immigration Policy LLB Dissertation (PDF)](https://github.com/Towobola-Od/academic-portfolio/blob/main/LLB%20Dissertation%20Immigration%20Law%20.pdf) 
   
-## Technical writing projects
+## Technical Writing Projects
 - [Guide to Draftinga a Compliant Privacy Policy (PDF)](https://github.com/Towobola-Od/academic-portfolio/blob/main/Guide%20to%20writing%20a%20Compliant%20privacy%20policy%20.pdf)
 - [Responding to a Public Consultation (PDF)](https://github.com/Towobola-Od/academic-portfolio/blob/main/Responding%20to%20a%20Public%20Call%20.pdf)
 
@@ -20,5 +20,5 @@ I'm a professional specialising in Regulation and Compliance from a legal perspe
 ## Other Projects ( Essays I enjoyed writing) 
 - [Impact of Climate Change in the Financial Services Sector ]()
 - [Guide to the GDPR Blog, which sparked my interest in Regulation and Compliance]()
-- 
+  
 
