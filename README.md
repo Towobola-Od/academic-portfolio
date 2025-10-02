@@ -8,7 +8,7 @@ I'm a professional specializing in Regulation and Compliance from a legal perspe
 - [Dissertation Title (PDF)](Dissertations/my-dissertation.pdf)
   
 ## 📚 Technical writing projects
-- [ Draftinga a Compliant Privacy Policy (PDF)](file:///Users/towobolaodukoya/Downloads/Guide%20to%20writing%20a%20Compliant%20privacy%20policy%20.pdf)
+- [ Draftinga a Compliant Privacy Policy (PDF)] (https://github.com/Towobola-Od/academic-portfolio/blob/main/Guide%20to%20writing%20a%20Compliant%20privacy%20policy%20.pdf)
 
 ## 🎤 Presentations
 - [Research Presentation (PPTX)](Presentations/my-talk.pptx)
