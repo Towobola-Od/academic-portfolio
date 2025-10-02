@@ -13,8 +13,7 @@ I'm a professional specialising in Regulation and Compliance from a legal perspe
 - [Responding to a Public Consultation (PDF)](https://github.com/Towobola-Od/academic-portfolio/blob/main/Responding%20to%20a%20Public%20Call%20.pdf)
 
 ## Presentations
-- [Research Presentation (PPTX)](Presentations/my-talk.pptx)
-
+- [Socio-economic Development Presentation. SDG Goals 4 and 5 (PPTX)](https://github.com/Towobola-Od/academic-portfolio/blob/main/Human%20trafficking%20Towo%20.pptx)
 ## Other Projects
 - [Project Report](Other-Projects/project-report.pdf)
 
