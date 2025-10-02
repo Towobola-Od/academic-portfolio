@@ -1,4 +1,4 @@
-# academic-portfolio
+# Academic Portfolio
 A portfolio showcasing my academic legal research, presentations and technical writing projects 
 # Hi, I'm Towobola Odukoya  
 
