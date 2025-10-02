@@ -18,7 +18,7 @@ I'm an ethically driven and adaptable Master’s graduate in Law and Regulatory 
 - [Socio-economic Development Presentation. SDG Goals 4 and 5 (PPTX)](https://github.com/Towobola-Od/academic-portfolio/blob/main/Human%20trafficking%20Towo%20.pptx)
   
 ## Other Projects ( Essays I enjoyed writing) 
-- [Impact of Climate Change in the Financial Services Sector ]()
+- [Impact of Climate Change in the Financial Services Sector ](https://github.com/Towobola-Od/academic-portfolio/blob/main/Imact%20of%20Climate%20Chnage%20in%20the%20Financial%20Services%20Industry%20.pdf)
 - [Guide to the GDPR Blog, which sparked my interest in Regulation and Compliance]()
   
 
